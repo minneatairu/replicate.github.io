@@ -62,7 +62,7 @@ export default function Home() {
           type="text"
           className="flex-grow"
           name="prompt"
-          placeholder="Enter a prompt to display an image"
+          placeholder="Enter a promzpt to display an image"
           ref={promptInputRef}
         />
         <button className="button" type="submit">
